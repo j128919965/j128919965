@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @j128919965
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning kotlin and quarkus
-- 📫 my website : [鹊君](https://ssacgn.online)
 
 
 <!---
